@@ -9,7 +9,7 @@ This example shows how to implement a **REST API** using [Fastify](https://www.f
 Install `yarn` dependencies:
 
 ```
-cd express-prisma-mysql
+cd fastify-routes-prisma-msql
 yarn install
 ```
 
